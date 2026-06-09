@@ -34,7 +34,3 @@ Users can:
 - LangChain 🔗
 - ChromaDB 🗄️
 - Hugging Face Embeddings 🤗
-
----
-
-## 📁 Project Structure
